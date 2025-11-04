@@ -23,4 +23,6 @@ export default defineConfig({
 			],
 		}),
 	],
+	site: 'https://urbanonline.github.io',
+	base: '/ServiceManualMS'
 });
